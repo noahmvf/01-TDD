@@ -4,6 +4,7 @@
 ## Submission Instructions
 * Read this document entirely and estimate how long this assignment will take.
 * Work in a fork of this repository
+* Hook up your forked repo to [Travis-CI](https://travis-ci.org/) using the steps demonstrated in class. 
 * Work in a branch on your fork called `lab-<lab-number>`, e.g. this lab's branch would be named `lab-01`
 * After completion, make a PR from your `lab-<lab-number>` branch to the master branch of your forked repository
 * Submit on canvas a question and observation, your original estimate, how long you spent, and a link to your pull request
