@@ -15,3 +15,4 @@ describe('testing #greet', () => {
       expect(greet({})).toBe(null);
     });
   });
+});

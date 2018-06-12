@@ -2,7 +2,7 @@ const arithmetic = require ('./../lib/arithmetic');
 
 describe('testing a number value', () => {
   test('parameter should be a number', () => {
-    expect(arithmetic.any(1,2)).toEqual(1,2);
+    expect(arithmetic.add(1,2)).toBe(1 + 2);
   });
 });
 
