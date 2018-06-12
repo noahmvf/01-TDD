@@ -2,7 +2,7 @@ const greet = require('./../lib/greet');
 
 describe('testing a string value', () => {
   test('parameter should be a string', () => {
-    expect (greet('Noah').toBe('hello Noah'))
+    expect(greet('Noah')).toBe('hello Noah');
   });
 });
 
