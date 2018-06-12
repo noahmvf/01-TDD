@@ -3,7 +3,7 @@ const arithmetic = require ('./../lib/arithmetic');
 describe('testing a number value', () => {
   test('parameter should be a number', () => {
     expect(arithmetic.add(1,2)).toBe(1 + 2);
-    expect(arithmetic.subtract(1,2)).toBe(1 - 2);
+    expect(arithmetic.sub(1,2)).toBe(1 - 2);
   });
 });
 
